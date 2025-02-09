@@ -71,6 +71,9 @@ button {
 .item-contact-link:focus {
   color: #404bbf;
 }
+.header-address {
+  font-style: normal;
+}
 /* header-end */
 
 /* hero */
@@ -140,9 +143,9 @@ button {
   color: #2e2f42;
 }
 .team-list {
-  background-color: #ffffff;
 }
 .team-list-item {
+  background-color: #ffffff;
 }
 .team-item-title {
   font-family: "Roboto", sans-serif;
